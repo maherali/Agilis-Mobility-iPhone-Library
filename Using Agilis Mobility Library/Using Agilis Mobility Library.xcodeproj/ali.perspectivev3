@@ -270,13 +270,14 @@
 								<string>41DE947A1296FC3F0034BE65</string>
 								<string>080E96DDFE201D6D7F000001</string>
 								<string>29B97315FDCFA39411CA2CEA</string>
+								<string>29B97317FDCFA39411CA2CEA</string>
 								<string>1C37FBAC04509CD000000102</string>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>7</integer>
-									<integer>1</integer>
+									<integer>22</integer>
+									<integer>21</integer>
 									<integer>0</integer>
 								</array>
 							</array>
@@ -298,7 +299,7 @@
 							<real>319</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>25 71 1485 934 0 0 1680 1028 </string>
+						<string>61 71 1485 934 0 0 1680 1028 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -316,7 +317,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>41DE94671296FBA40034BE65</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>Using_Agilis_Mobility_LibraryAppDelegate.m</string>
+								<string>MyTableViewController.m</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -324,17 +325,17 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>41DE94681296FBA40034BE65</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>Using_Agilis_Mobility_LibraryAppDelegate.m</string>
+										<string>MyTableViewController.m</string>
 										<key>_historyCapacity</key>
 										<integer>10</integer>
 										<key>bookmark</key>
-										<string>41364F42129721D000475A74</string>
+										<string>413650CC129741EC00475A74</string>
 										<key>history</key>
 										<array>
-											<string>41DE94A212971A120034BE65</string>
-											<string>41364EF512971F7000475A74</string>
-											<string>41364EF612971F7000475A74</string>
-											<string>41364F41129721C900475A74</string>
+											<string>413650BB129741C400475A74</string>
+											<string>413650BC129741C400475A74</string>
+											<string>413650BE129741C400475A74</string>
+											<string>413650CB129741EA00475A74</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -350,7 +351,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {1144, 888}}</string>
 								<key>RubberWindowFrame</key>
-								<string>25 71 1485 934 0 0 1680 1028 </string>
+								<string>61 71 1485 934 0 0 1680 1028 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -375,7 +376,7 @@
 										<key>Frame</key>
 										<string>{{10, 27}, {1144, -27}}</string>
 										<key>RubberWindowFrame</key>
-										<string>25 71 1485 934 0 0 1680 1028 </string>
+										<string>61 71 1485 934 0 0 1680 1028 </string>
 									</dict>
 									<key>Module</key>
 									<string>XCDetailModule</string>
@@ -656,7 +657,7 @@
 		<string>/Users/ali/work/coding/Agilis-Mobility-iPhone-Library/Using Agilis Mobility Library/Using Agilis Mobility Library.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>25 71 1485 934 0 0 1680 1028 </string>
+	<string>61 71 1485 934 0 0 1680 1028 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>

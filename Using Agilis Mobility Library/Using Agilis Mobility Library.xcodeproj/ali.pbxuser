@@ -2,16 +2,16 @@
 {
 	1D3623240D0F684500981E51 /* Using_Agilis_Mobility_LibraryAppDelegate.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1217, 856}}";
-			sepNavSelRange = "{0, 0}";
-			sepNavVisRange = "{0, 383}";
+			sepNavIntBoundsRect = "{{0, 0}, {1083, 856}}";
+			sepNavSelRange = "{232, 64}";
+			sepNavVisRange = "{0, 303}";
 		};
 	};
 	1D3623250D0F684500981E51 /* Using_Agilis_Mobility_LibraryAppDelegate.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1965, 1216}}";
-			sepNavSelRange = "{349, 0}";
-			sepNavVisRange = "{0, 1982}";
+			sepNavIntBoundsRect = "{{0, 0}, {810, 411}}";
+			sepNavSelRange = "{175, 0}";
+			sepNavVisRange = "{0, 655}";
 		};
 	};
 	1D6058900D05DD3D006BFB54 /* Using Agilis Mobility Library */ = {
@@ -99,6 +99,19 @@
 			41364F40129721C300475A74 /* PBXTextBookmark */ = 41364F40129721C300475A74 /* PBXTextBookmark */;
 			41364F41129721C900475A74 /* PBXTextBookmark */ = 41364F41129721C900475A74 /* PBXTextBookmark */;
 			41364F42129721D000475A74 /* PBXTextBookmark */ = 41364F42129721D000475A74 /* PBXTextBookmark */;
+			413650BB129741C400475A74 /* PBXTextBookmark */ = 413650BB129741C400475A74 /* PBXTextBookmark */;
+			413650BC129741C400475A74 /* PBXTextBookmark */ = 413650BC129741C400475A74 /* PBXTextBookmark */;
+			413650BE129741C400475A74 /* PBXTextBookmark */ = 413650BE129741C400475A74 /* PBXTextBookmark */;
+			413650BF129741C400475A74 /* PBXTextBookmark */ = 413650BF129741C400475A74 /* PBXTextBookmark */;
+			413650C0129741C400475A74 /* PBXTextBookmark */ = 413650C0129741C400475A74 /* PBXTextBookmark */;
+			413650C1129741C500475A74 /* PBXTextBookmark */ = 413650C1129741C500475A74 /* PBXTextBookmark */;
+			413650C2129741CC00475A74 /* PBXTextBookmark */ = 413650C2129741CC00475A74 /* PBXTextBookmark */;
+			413650C3129741CC00475A74 /* PBXTextBookmark */ = 413650C3129741CC00475A74 /* PBXTextBookmark */;
+			413650C4129741D000475A74 /* PBXTextBookmark */ = 413650C4129741D000475A74 /* PBXTextBookmark */;
+			413650C9129741E100475A74 /* PBXTextBookmark */ = 413650C9129741E100475A74 /* PBXTextBookmark */;
+			413650CA129741E100475A74 /* PBXTextBookmark */ = 413650CA129741E100475A74 /* PBXTextBookmark */;
+			413650CB129741EA00475A74 /* PBXTextBookmark */ = 413650CB129741EA00475A74 /* PBXTextBookmark */;
+			413650CC129741EC00475A74 /* PBXTextBookmark */ = 413650CC129741EC00475A74 /* PBXTextBookmark */;
 			41DE94A212971A120034BE65 = 41DE94A212971A120034BE65 /* PBXTextBookmark */;
 			41DE94A312971A120034BE65 = 41DE94A312971A120034BE65 /* PBXTextBookmark */;
 			41DE94A412971A120034BE65 = 41DE94A412971A120034BE65 /* PBXTextBookmark */;
@@ -169,7 +182,7 @@
 		fRef = 41DE948E1296FC8D0034BE65 /* TestMMTableViewController.m */;
 		name = "TestMMTableViewController.m: 17";
 		rLen = 0;
-		rLoc = 226;
+		rLoc = 225;
 		rType = 0;
 		vrLen = 2595;
 		vrLoc = 0;
@@ -179,7 +192,7 @@
 		fRef = 1D3623250D0F684500981E51 /* Using_Agilis_Mobility_LibraryAppDelegate.m */;
 		name = "Using_Agilis_Mobility_LibraryAppDelegate.m: 17";
 		rLen = 0;
-		rLoc = 388;
+		rLoc = 175;
 		rType = 0;
 		vrLen = 2043;
 		vrLoc = 0;
@@ -189,7 +202,7 @@
 		fRef = 1D3623250D0F684500981E51 /* Using_Agilis_Mobility_LibraryAppDelegate.m */;
 		name = "Using_Agilis_Mobility_LibraryAppDelegate.m: 11";
 		rLen = 0;
-		rLoc = 271;
+		rLoc = 87;
 		rType = 0;
 		vrLen = 1982;
 		vrLoc = 0;
@@ -209,7 +222,7 @@
 		fRef = 1D3623250D0F684500981E51 /* Using_Agilis_Mobility_LibraryAppDelegate.m */;
 		name = "Using_Agilis_Mobility_LibraryAppDelegate.m: 11";
 		rLen = 0;
-		rLoc = 271;
+		rLoc = 87;
 		rType = 0;
 		vrLen = 786;
 		vrLoc = 0;
@@ -219,7 +232,7 @@
 		fRef = 1D3623250D0F684500981E51 /* Using_Agilis_Mobility_LibraryAppDelegate.m */;
 		name = "Using_Agilis_Mobility_LibraryAppDelegate.m: 11";
 		rLen = 0;
-		rLoc = 271;
+		rLoc = 87;
 		rType = 0;
 		vrLen = 1982;
 		vrLoc = 0;
@@ -229,7 +242,7 @@
 		fRef = 1D3623250D0F684500981E51 /* Using_Agilis_Mobility_LibraryAppDelegate.m */;
 		name = "Using_Agilis_Mobility_LibraryAppDelegate.m: 13";
 		rLen = 0;
-		rLoc = 329;
+		rLoc = 145;
 		rType = 0;
 		vrLen = 1982;
 		vrLoc = 0;
@@ -239,7 +252,7 @@
 		fRef = 1D3623250D0F684500981E51 /* Using_Agilis_Mobility_LibraryAppDelegate.m */;
 		name = "Using_Agilis_Mobility_LibraryAppDelegate.m: 13";
 		rLen = 0;
-		rLoc = 329;
+		rLoc = 145;
 		rType = 0;
 		vrLen = 1981;
 		vrLoc = 0;
@@ -249,7 +262,7 @@
 		fRef = 1D3623250D0F684500981E51 /* Using_Agilis_Mobility_LibraryAppDelegate.m */;
 		name = "Using_Agilis_Mobility_LibraryAppDelegate.m: 13";
 		rLen = 0;
-		rLoc = 329;
+		rLoc = 145;
 		rType = 0;
 		vrLen = 786;
 		vrLoc = 0;
@@ -259,7 +272,7 @@
 		fRef = 1D3623250D0F684500981E51 /* Using_Agilis_Mobility_LibraryAppDelegate.m */;
 		name = "Using_Agilis_Mobility_LibraryAppDelegate.m: 19";
 		rLen = 0;
-		rLoc = 402;
+		rLoc = 175;
 		rType = 0;
 		vrLen = 1982;
 		vrLoc = 0;
@@ -269,7 +282,7 @@
 		fRef = 1D3623250D0F684500981E51 /* Using_Agilis_Mobility_LibraryAppDelegate.m */;
 		name = "Using_Agilis_Mobility_LibraryAppDelegate.m: 19";
 		rLen = 0;
-		rLoc = 402;
+		rLoc = 175;
 		rType = 0;
 		vrLen = 1981;
 		vrLoc = 0;
@@ -279,7 +292,7 @@
 		fRef = 1D3623250D0F684500981E51 /* Using_Agilis_Mobility_LibraryAppDelegate.m */;
 		name = "Using_Agilis_Mobility_LibraryAppDelegate.m: 19";
 		rLen = 0;
-		rLoc = 402;
+		rLoc = 175;
 		rType = 0;
 		vrLen = 786;
 		vrLoc = 0;
@@ -289,9 +302,152 @@
 		fRef = 1D3623250D0F684500981E51 /* Using_Agilis_Mobility_LibraryAppDelegate.m */;
 		name = "Using_Agilis_Mobility_LibraryAppDelegate.m: 14";
 		rLen = 0;
-		rLoc = 349;
+		rLoc = 174;
 		rType = 0;
 		vrLen = 1982;
+		vrLoc = 0;
+	};
+	413650B11297418900475A74 /* MyTableViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1083, 1088}}";
+			sepNavSelRange = "{831, 0}";
+			sepNavVisRange = "{0, 2756}";
+		};
+	};
+	413650BB129741C400475A74 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* Using_Agilis_Mobility_LibraryAppDelegate.h */;
+		name = "Using_Agilis_Mobility_LibraryAppDelegate.h: 8";
+		rLen = 64;
+		rLoc = 232;
+		rType = 0;
+		vrLen = 303;
+		vrLoc = 0;
+	};
+	413650BC129741C400475A74 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 413650BD129741C400475A74 /* Agilis_Mobility_LibraryAppDelegate.m */;
+		name = "Agilis_Mobility_LibraryAppDelegate.m: 11";
+		rLen = 220;
+		rLoc = 282;
+		rType = 0;
+		vrLen = 646;
+		vrLoc = 0;
+	};
+	413650BD129741C400475A74 /* Agilis_Mobility_LibraryAppDelegate.m */ = {
+		isa = PBXFileReference;
+		name = Agilis_Mobility_LibraryAppDelegate.m;
+		path = "/Users/ali/work/coding/Agilis-Mobility-iPhone-Library----Source/Agilis Mobility Library/Classes/Agilis_Mobility_LibraryAppDelegate.m";
+		sourceTree = "<absolute>";
+	};
+	413650BE129741C400475A74 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Using_Agilis_Mobility_LibraryAppDelegate.m */;
+		name = "Using_Agilis_Mobility_LibraryAppDelegate.m: 2";
+		rLen = 0;
+		rLoc = 83;
+		rType = 0;
+		vrLen = 655;
+		vrLoc = 0;
+	};
+	413650BF129741C400475A74 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 413650B11297418900475A74 /* MyTableViewController.m */;
+		name = "MyTableViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2756;
+		vrLoc = 0;
+	};
+	413650C0129741C400475A74 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 413650B11297418900475A74 /* MyTableViewController.m */;
+		name = "MyTableViewController.m: 14";
+		rLen = 0;
+		rLoc = 517;
+		rType = 0;
+		vrLen = 2756;
+		vrLoc = 0;
+	};
+	413650C1129741C500475A74 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 413650B11297418900475A74 /* MyTableViewController.m */;
+		name = "MyTableViewController.m: 14";
+		rLen = 0;
+		rLoc = 517;
+		rType = 0;
+		vrLen = 2754;
+		vrLoc = 0;
+	};
+	413650C2129741CC00475A74 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Using_Agilis_Mobility_LibraryAppDelegate.m */;
+		name = "Using_Agilis_Mobility_LibraryAppDelegate.m: 7";
+		rLen = 0;
+		rLoc = 175;
+		rType = 0;
+		vrLen = 655;
+		vrLoc = 0;
+	};
+	413650C3129741CC00475A74 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 413650B11297418900475A74 /* MyTableViewController.m */;
+		name = "MyTableViewController.m: 14";
+		rLen = 0;
+		rLoc = 517;
+		rType = 0;
+		vrLen = 1234;
+		vrLoc = 0;
+	};
+	413650C4129741D000475A74 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 413650B11297418900475A74 /* MyTableViewController.m */;
+		name = "MyTableViewController.m: 13";
+		rLen = 0;
+		rLoc = 474;
+		rType = 0;
+		vrLen = 2756;
+		vrLoc = 0;
+	};
+	413650C9129741E100475A74 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 413650B11297418900475A74 /* MyTableViewController.m */;
+		name = "MyTableViewController.m: 28";
+		rLen = 0;
+		rLoc = 1266;
+		rType = 0;
+		vrLen = 2756;
+		vrLoc = 0;
+	};
+	413650CA129741E100475A74 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 413650B11297418900475A74 /* MyTableViewController.m */;
+		name = "MyTableViewController.m: 28";
+		rLen = 0;
+		rLoc = 1266;
+		rType = 0;
+		vrLen = 2754;
+		vrLoc = 0;
+	};
+	413650CB129741EA00475A74 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 413650B11297418900475A74 /* MyTableViewController.m */;
+		name = "MyTableViewController.m: 28";
+		rLen = 0;
+		rLoc = 1266;
+		rType = 0;
+		vrLen = 1234;
+		vrLoc = 0;
+	};
+	413650CC129741EC00475A74 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 413650B11297418900475A74 /* MyTableViewController.m */;
+		name = "MyTableViewController.m: 19";
+		rLen = 0;
+		rLoc = 831;
+		rType = 0;
+		vrLen = 2756;
 		vrLoc = 0;
 	};
 	41DE94621296FBA10034BE65 /* Using Agilis Mobility Library */ = {
@@ -345,19 +501,36 @@
 		name = AMTableView.h;
 		path = "/Users/ali/work/coding/Agilis-Mobility-iPhone-Library/Using Agilis Mobility Library/AMTableView.h";
 		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1083, 856}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 672}";
+		};
 	};
 	41DE948D1296FC8D0034BE65 /* TestMMTableViewController.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = TestMMTableViewController.h;
+		path = "/Users/ali/work/coding/Agilis-Mobility-iPhone-Library/Using Agilis Mobility Library/Classes/TestMMTableViewController.h";
+		sourceTree = "<absolute>";
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {681, 411}}";
-			sepNavSelRange = "{259, 0}";
+			sepNavIntBoundsRect = "{{0, 0}, {1083, 856}}";
+			sepNavSelRange = "{190, 0}";
 			sepNavVisRange = "{0, 259}";
 		};
 	};
 	41DE948E1296FC8D0034BE65 /* TestMMTableViewController.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = TestMMTableViewController.m;
+		path = "/Users/ali/work/coding/Agilis-Mobility-iPhone-Library/Using Agilis Mobility Library/Classes/TestMMTableViewController.m";
+		sourceTree = "<absolute>";
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1237, 1520}}";
-			sepNavSelRange = "{226, 0}";
-			sepNavVisRange = "{0, 2595}";
+			sepNavIntBoundsRect = "{{0, 0}, {1237, 1504}}";
+			sepNavSelRange = "{2372, 0}";
+			sepNavVisRange = "{1550, 2440}";
 		};
 	};
 	41DE94A212971A120034BE65 /* PBXTextBookmark */ = {
@@ -375,7 +548,7 @@
 		fRef = 1D3623250D0F684500981E51 /* Using_Agilis_Mobility_LibraryAppDelegate.m */;
 		name = "Using_Agilis_Mobility_LibraryAppDelegate.m: 17";
 		rLen = 0;
-		rLoc = 388;
+		rLoc = 175;
 		rType = 0;
 		vrLen = 2043;
 		vrLoc = 0;
@@ -405,7 +578,7 @@
 		comments = "'MMTableCell' undeclared (first use in this function)";
 		fRef = 41DE948E1296FC8D0034BE65 /* TestMMTableViewController.m */;
 		rLen = 1;
-		rLoc = 66;
+		rLoc = 65;
 		rType = 1;
 	};
 	41DE94A712971A120034BE65 /* PBXTextBookmark */ = {
@@ -413,7 +586,7 @@
 		fRef = 41DE948E1296FC8D0034BE65 /* TestMMTableViewController.m */;
 		name = "TestMMTableViewController.m: 71";
 		rLen = 0;
-		rLoc = 3409;
+		rLoc = 3408;
 		rType = 0;
 		vrLen = 256;
 		vrLoc = 227;
@@ -423,7 +596,7 @@
 		fRef = 41DE948E1296FC8D0034BE65 /* TestMMTableViewController.m */;
 		name = "TestMMTableViewController.m: 71";
 		rLen = 0;
-		rLoc = 3409;
+		rLoc = 3408;
 		rType = 0;
 		vrLen = 1074;
 		vrLoc = 148;
@@ -433,7 +606,7 @@
 		fRef = 41DE948E1296FC8D0034BE65 /* TestMMTableViewController.m */;
 		name = "TestMMTableViewController.m: 17";
 		rLen = 0;
-		rLoc = 226;
+		rLoc = 225;
 		rType = 0;
 		vrLen = 2595;
 		vrLoc = 0;
