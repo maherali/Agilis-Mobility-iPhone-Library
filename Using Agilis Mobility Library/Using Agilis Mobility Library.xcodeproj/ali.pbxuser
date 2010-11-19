@@ -10,7 +10,7 @@
 	1D3623250D0F684500981E51 /* Using_Agilis_Mobility_LibraryAppDelegate.m */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1965, 1216}}";
-			sepNavSelRange = "{271, 0}";
+			sepNavSelRange = "{349, 0}";
 			sepNavVisRange = "{0, 1982}";
 		};
 	};
@@ -23,7 +23,7 @@
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
 		activeBuildConfigurationName = Release;
 		activeExecutable = 41DE94621296FBA10034BE65 /* Using Agilis Mobility Library */;
-		activeSDKPreference = iphoneos4.0;
+		activeSDKPreference = iphonesimulator4.0;
 		activeTarget = 1D6058900D05DD3D006BFB54 /* Using Agilis Mobility Library */;
 		addToTargets = (
 			1D6058900D05DD3D006BFB54 /* Using Agilis Mobility Library */,
@@ -55,6 +55,28 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					865,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
 			PBXPerProjectTemplateStateSaveDate = 311893544;
 			PBXWorkspaceStateSaveDate = 311893544;
 		};
@@ -70,6 +92,13 @@
 			41364EF912971FA200475A74 /* PBXTextBookmark */ = 41364EF912971FA200475A74 /* PBXTextBookmark */;
 			41364EFA12971FA200475A74 /* PBXTextBookmark */ = 41364EFA12971FA200475A74 /* PBXTextBookmark */;
 			41364EFB12971FAE00475A74 /* PBXTextBookmark */ = 41364EFB12971FAE00475A74 /* PBXTextBookmark */;
+			41364F341297218900475A74 /* PBXTextBookmark */ = 41364F341297218900475A74 /* PBXTextBookmark */;
+			41364F351297218900475A74 /* PBXTextBookmark */ = 41364F351297218900475A74 /* PBXTextBookmark */;
+			41364F361297219700475A74 /* PBXTextBookmark */ = 41364F361297219700475A74 /* PBXTextBookmark */;
+			41364F3D129721AB00475A74 /* PBXTextBookmark */ = 41364F3D129721AB00475A74 /* PBXTextBookmark */;
+			41364F40129721C300475A74 /* PBXTextBookmark */ = 41364F40129721C300475A74 /* PBXTextBookmark */;
+			41364F41129721C900475A74 /* PBXTextBookmark */ = 41364F41129721C900475A74 /* PBXTextBookmark */;
+			41364F42129721D000475A74 /* PBXTextBookmark */ = 41364F42129721D000475A74 /* PBXTextBookmark */;
 			41DE94A212971A120034BE65 = 41DE94A212971A120034BE65 /* PBXTextBookmark */;
 			41DE94A312971A120034BE65 = 41DE94A312971A120034BE65 /* PBXTextBookmark */;
 			41DE94A412971A120034BE65 = 41DE94A412971A120034BE65 /* PBXTextBookmark */;
@@ -191,6 +220,76 @@
 		name = "Using_Agilis_Mobility_LibraryAppDelegate.m: 11";
 		rLen = 0;
 		rLoc = 271;
+		rType = 0;
+		vrLen = 1982;
+		vrLoc = 0;
+	};
+	41364F341297218900475A74 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Using_Agilis_Mobility_LibraryAppDelegate.m */;
+		name = "Using_Agilis_Mobility_LibraryAppDelegate.m: 13";
+		rLen = 0;
+		rLoc = 329;
+		rType = 0;
+		vrLen = 1982;
+		vrLoc = 0;
+	};
+	41364F351297218900475A74 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Using_Agilis_Mobility_LibraryAppDelegate.m */;
+		name = "Using_Agilis_Mobility_LibraryAppDelegate.m: 13";
+		rLen = 0;
+		rLoc = 329;
+		rType = 0;
+		vrLen = 1981;
+		vrLoc = 0;
+	};
+	41364F361297219700475A74 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Using_Agilis_Mobility_LibraryAppDelegate.m */;
+		name = "Using_Agilis_Mobility_LibraryAppDelegate.m: 13";
+		rLen = 0;
+		rLoc = 329;
+		rType = 0;
+		vrLen = 786;
+		vrLoc = 0;
+	};
+	41364F3D129721AB00475A74 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Using_Agilis_Mobility_LibraryAppDelegate.m */;
+		name = "Using_Agilis_Mobility_LibraryAppDelegate.m: 19";
+		rLen = 0;
+		rLoc = 402;
+		rType = 0;
+		vrLen = 1982;
+		vrLoc = 0;
+	};
+	41364F40129721C300475A74 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Using_Agilis_Mobility_LibraryAppDelegate.m */;
+		name = "Using_Agilis_Mobility_LibraryAppDelegate.m: 19";
+		rLen = 0;
+		rLoc = 402;
+		rType = 0;
+		vrLen = 1981;
+		vrLoc = 0;
+	};
+	41364F41129721C900475A74 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Using_Agilis_Mobility_LibraryAppDelegate.m */;
+		name = "Using_Agilis_Mobility_LibraryAppDelegate.m: 19";
+		rLen = 0;
+		rLoc = 402;
+		rType = 0;
+		vrLen = 786;
+		vrLoc = 0;
+	};
+	41364F42129721D000475A74 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Using_Agilis_Mobility_LibraryAppDelegate.m */;
+		name = "Using_Agilis_Mobility_LibraryAppDelegate.m: 14";
+		rLen = 0;
+		rLoc = 349;
 		rType = 0;
 		vrLen = 1982;
 		vrLoc = 0;
