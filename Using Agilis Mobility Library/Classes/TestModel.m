@@ -2,10 +2,11 @@
 
 @implementation TestModel
 
-@synthesize aGivenRecord;
+@synthesize aGivenRecord, aText;
 
 - (void) dealloc{
     self.aGivenRecord = nil;
+    self.aText = nil;
     [super dealloc];
 }
 
