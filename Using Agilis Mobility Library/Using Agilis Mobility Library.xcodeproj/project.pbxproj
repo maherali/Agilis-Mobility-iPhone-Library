@@ -13,14 +13,14 @@
 		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
 		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
 		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
-		413650AC1297417A00475A74 /* libAgilisMobility.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 413650AA1297417A00475A74 /* libAgilisMobility.a */; };
-		413650AD1297417A00475A74 /* libAgilisMobilitySimulator.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 413650AB1297417A00475A74 /* libAgilisMobilitySimulator.a */; };
 		413650B41297418900475A74 /* MyTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = 413650AF1297418900475A74 /* MyTableView.m */; };
 		413650B51297418900475A74 /* MyTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 413650B11297418900475A74 /* MyTableViewController.m */; };
 		413650B61297418900475A74 /* TestModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 413650B31297418900475A74 /* TestModel.m */; };
 		413650C6129741DE00475A74 /* TCPRO_tripIcons_speed.png in Resources */ = {isa = PBXBuildFile; fileRef = 413650C5129741DE00475A74 /* TCPRO_tripIcons_speed.png */; };
 		413650D3129743B700475A74 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 413650D2129743B700475A74 /* Default.png */; };
 		413650EB129744C300475A74 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 413650EA129744C300475A74 /* icon.png */; };
+		41FA89EA1297F2EC007F01BF /* libAgilisMobilitySimulator.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 41FA89E91297F2EC007F01BF /* libAgilisMobilitySimulator.a */; };
+		41FA89EC1297F2F4007F01BF /* libAgilisMobility.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 41FA89EB1297F2F4007F01BF /* libAgilisMobility.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,8 +38,6 @@
 		413650A71297417A00475A74 /* AMTableCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AMTableCell.h; sourceTree = "<group>"; };
 		413650A81297417A00475A74 /* AMTableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AMTableView.h; sourceTree = "<group>"; };
 		413650A91297417A00475A74 /* AMTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AMTableViewController.h; sourceTree = "<group>"; };
-		413650AA1297417A00475A74 /* libAgilisMobility.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libAgilisMobility.a; sourceTree = "<group>"; };
-		413650AB1297417A00475A74 /* libAgilisMobilitySimulator.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libAgilisMobilitySimulator.a; sourceTree = "<group>"; };
 		413650AE1297418900475A74 /* MyTableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyTableView.h; sourceTree = "<group>"; };
 		413650AF1297418900475A74 /* MyTableView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyTableView.m; sourceTree = "<group>"; };
 		413650B01297418900475A74 /* MyTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyTableViewController.h; sourceTree = "<group>"; };
@@ -49,6 +47,8 @@
 		413650C5129741DE00475A74 /* TCPRO_tripIcons_speed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TCPRO_tripIcons_speed.png; sourceTree = "<group>"; };
 		413650D2129743B700475A74 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
 		413650EA129744C300475A74 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		41FA89E91297F2EC007F01BF /* libAgilisMobilitySimulator.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libAgilisMobilitySimulator.a; sourceTree = "<group>"; };
+		41FA89EB1297F2F4007F01BF /* libAgilisMobility.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libAgilisMobility.a; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* Using_Agilis_Mobility_Library-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Using_Agilis_Mobility_Library-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -60,8 +60,8 @@
 				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
 				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
 				288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */,
-				413650AC1297417A00475A74 /* libAgilisMobility.a in Frameworks */,
-				413650AD1297417A00475A74 /* libAgilisMobilitySimulator.a in Frameworks */,
+				41FA89EA1297F2EC007F01BF /* libAgilisMobilitySimulator.a in Frameworks */,
+				41FA89EC1297F2F4007F01BF /* libAgilisMobility.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,13 +138,13 @@
 		41DE947A1296FC3F0034BE65 /* Agilis Mobility Library */ = {
 			isa = PBXGroup;
 			children = (
+				41FA89EB1297F2F4007F01BF /* libAgilisMobility.a */,
+				41FA89E91297F2EC007F01BF /* libAgilisMobilitySimulator.a */,
 				413650A51297417A00475A74 /* AMImageViewWrapper.h */,
 				413650A61297417A00475A74 /* AMResourceRecord.h */,
 				413650A71297417A00475A74 /* AMTableCell.h */,
 				413650A81297417A00475A74 /* AMTableView.h */,
 				413650A91297417A00475A74 /* AMTableViewController.h */,
-				413650AA1297417A00475A74 /* libAgilisMobility.a */,
-				413650AB1297417A00475A74 /* libAgilisMobilitySimulator.a */,
 			);
 			name = "Agilis Mobility Library";
 			sourceTree = "<group>";

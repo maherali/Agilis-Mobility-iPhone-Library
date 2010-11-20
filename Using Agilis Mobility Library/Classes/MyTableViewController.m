@@ -64,12 +64,10 @@
     return self.data;
 }
 
-- (id)initWithStyle:(UITableViewStyle)style {
-    if ((self = [super initWithStyle:style])) {
-        self.tableView = [[[MyTableView alloc] initWithFrame:self.tableView.frame style:self.tableView.style andData:[self buildMockData]] autorelease];
-        self.title = @"Demo";
-    }
-    return self;
+- (void) viewDidLoad{
+    [super viewDidLoad];
+    self.tableView = [[[MyTableView alloc] initWithFrame:self.tableView.frame style:self.tableView.style andData:[self buildMockData]] autorelease];
+    self.title = @"Demo";
 }
 
 - (void) viewDidAppear:(BOOL)animated{

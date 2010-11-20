@@ -276,8 +276,8 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>14</integer>
-									<integer>9</integer>
+									<integer>2</integer>
+									<integer>1</integer>
 									<integer>0</integer>
 								</array>
 							</array>
@@ -317,7 +317,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>41DE94671296FBA40034BE65</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>TestModel.m</string>
+								<string>MyTableViewController.m</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -325,11 +325,11 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>41DE94681296FBA40034BE65</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>TestModel.m</string>
+										<string>MyTableViewController.m</string>
 										<key>_historyCapacity</key>
 										<integer>10</integer>
 										<key>bookmark</key>
-										<string>4136515012974E5300475A74</string>
+										<string>41FA89F61297F309007F01BF</string>
 										<key>history</key>
 										<array>
 											<string>413651081297487200475A74</string>
@@ -339,9 +339,9 @@
 											<string>4136511B129748FC00475A74</string>
 											<string>4136514C12974E5300475A74</string>
 											<string>4136514D12974E5300475A74</string>
-											<string>4136514E12974E5300475A74</string>
 											<string>4136514F12974E5300475A74</string>
-											<string>4136510D1297487200475A74</string>
+											<string>41FA89DB1297F2BA007F01BF</string>
+											<string>41FA89F51297F304007F01BF</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -464,11 +464,11 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>41364EE512971F1200475A74</string>
+				<string>41FA89DF1297F2BA007F01BF</string>
 				<string>1CA23ED40692098700951B8B</string>
-				<string>41364EE612971F1200475A74</string>
+				<string>41FA89E01297F2BA007F01BF</string>
 				<string>41DE94671296FBA40034BE65</string>
-				<string>41364EE712971F1200475A74</string>
+				<string>41FA89E11297F2BA007F01BF</string>
 				<string>1CA23EDF0692099D00951B8B</string>
 				<string>1CA23EE00692099D00951B8B</string>
 				<string>1CA23EE10692099D00951B8B</string>
@@ -617,13 +617,13 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>41364EE812971F1200475A74</string>
+				<string>41FA89E21297F2BA007F01BF</string>
 				<string>1CCC7628064C1048000F2A68</string>
 				<string>1CCC7629064C1048000F2A68</string>
-				<string>41364EE912971F1200475A74</string>
-				<string>41364EEA12971F1200475A74</string>
-				<string>41364EEB12971F1200475A74</string>
-				<string>41364EEC12971F1200475A74</string>
+				<string>41FA89E31297F2BA007F01BF</string>
+				<string>41FA89E41297F2BA007F01BF</string>
+				<string>41FA89E51297F2BA007F01BF</string>
+				<string>41FA89E61297F2BA007F01BF</string>
 				<string>41DE94671296FBA40034BE65</string>
 			</array>
 			<key>ToolbarConfigUserDefaultsMinorVersion</key>
@@ -658,8 +658,6 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>41364EED12971F1200475A74</string>
-		<string>41364EEE12971F1200475A74</string>
 		<string>/Users/ali/work/coding/Agilis-Mobility-iPhone-Library/Using Agilis Mobility Library/Using Agilis Mobility Library.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
