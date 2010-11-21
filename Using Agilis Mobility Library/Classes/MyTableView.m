@@ -7,6 +7,7 @@
 @implementation MyTableView
 
 - (id)initWithFrame:(CGRect)frame style:(UITableViewStyle)style andData:(NSArray*)data{
+     [AMTableView setCacheLocation:@"Documents/mycache"]; // optional, the default location for the image cache is Documents/cache
     if(self = [super initWithFrame:frame style:style andData:data]){
         NSDictionary *ctx1 = [NSDictionary dictionaryWithObjectsAndKeys:@"aGivenRecord", @"rec", @"TCPRO_tripIcons_speed.png", @"default", [NSString stringWithFormat:@"%d", IMAGE_VIEW_TAG], @"tag", nil];
         self.contexts = [NSDictionary dictionaryWithObjectsAndKeys:ctx1, @"ICONS", nil];

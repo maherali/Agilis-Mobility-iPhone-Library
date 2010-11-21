@@ -16,4 +16,6 @@
 
 - (id) initWithFrame:(CGRect)frame style:(UITableViewStyle)style andData:(NSArray*)data; 
 - (void) showTableWithData:(NSArray*)newData;
++ (void) setCacheLocation:(NSString*)_newLoc;
++ (NSString*) cacheLocation;
 @end
